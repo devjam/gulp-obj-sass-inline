@@ -1,0 +1,32 @@
+{
+  "name": "gulp-obj-sass-inline",
+  "description": "gulp plugin for converting Object to scss/sass variable String with gulp-sass (gulp-ruby-sass).",
+  "version": "0.1.0",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devjam/gulp-obj-sass-inline"
+  },
+  "keywords": [
+    "gulp",
+    "config",
+    "variable",
+    "js",
+    "coffee",
+    "json",
+    "sass",
+    "scss",
+    "css"
+  ],
+  "bugs": {
+    "url": "https://github.com/devjam/gulp-obj-sass-inline/issues"
+  },
+  "homepage": "https://github.com/devjam/gulp-obj-sass-inline",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "obj-sass": "^0.1.0",
+    "through": "^2.3.8"
+  }
+}
